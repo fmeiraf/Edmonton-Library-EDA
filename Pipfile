@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+jupyter = "*"
+notebook = "*"
+matplotlib = "*"
+sodapy = "*"
+google = "*"
+books = "*"
+api = "*"
+googlebooks = {editable = true,git = "https://github.com/hoffmann/googlebooks.git"}
+folium = "*"
+seaborn = "*"
+
+[requires]
+python_version = "3.8"
