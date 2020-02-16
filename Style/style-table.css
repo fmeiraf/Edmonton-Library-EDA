@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+
+table.dataframe {
+    border-collapse: collapse;
+    border: none;
+}
+table.dataframe th {
+    border: 1px solid white;
+    background-color: gray;
+    color: white;
+    font-style: oblique;
+    text-align: center !important;
+
+}
+
+table.dataframe td {
+    text-align: center;
+}
+
+table.dataframe tr {
+    text-align: center;
+}
