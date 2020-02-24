@@ -17,6 +17,10 @@ api = "*"
 googlebooks = {editable = true,git = "https://github.com/hoffmann/googlebooks.git"}
 folium = "*"
 seaborn = "*"
+jupyter-contrib-nbextensions = "*"
+plotly = "*"
+pyyaml = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.8"
