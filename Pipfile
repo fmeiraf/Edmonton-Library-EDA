@@ -21,6 +21,7 @@ jupyter-contrib-nbextensions = "*"
 plotly = "*"
 pyyaml = "*"
 scipy = "*"
+openpyxl = "*"
 
 [requires]
 python_version = "3.8"
